@@ -1,0 +1,7 @@
+.forge_packages/
+vosk-model-small-en-us-0.15/
+vosk-model-small-en-us-0.15.zip
+__pycache__/
+*.py[cod]
+forge-server.log
+forge-server-error.log
